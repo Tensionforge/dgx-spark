@@ -1,0 +1,12 @@
+Openai/gpt-oss-120b is MXFP4 MoE!!
+  Implies training WHILE quantized.
+  Uniform quantization.
+
+  FP32 - 0GB / 0,  FP16- 0GB, MXFP8 0GB, MXFP6 0GB, MXFP4 0GB
+
+Proposing non-uniform quantization + training.
+  IE:
+
+
+FP32 - 30GB,  FP16- 15GB, MXFP8 10GB, MXFP6 15GB, MXFP4 30GB
+  
